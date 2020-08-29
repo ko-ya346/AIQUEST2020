@@ -1,0 +1,33 @@
+{
+    "feature": [
+        "id",
+        "accommodates",
+        "amenities",
+        "bathrooms",
+        "bed_type",
+        "bedrooms",
+        "beds",
+        "cancellation_policy",
+        "city",
+        "cleaning_fee",
+        "description",
+        "first_review",
+        "host_has_profile_pic",
+        "host_identity_verified",
+        "host_response_rate",
+        "host_since",
+        "instant_bookable",
+        "last_review",
+        "latitude",
+        "longitude",
+        "name",
+        "neighbourhood",
+        "number_of_reviews",
+        "property_type",
+        "review_scores_rating",
+        "room_type",
+        "thumbnail_url",
+        "zipcode"
+    ],
+    "target": "y"
+}
